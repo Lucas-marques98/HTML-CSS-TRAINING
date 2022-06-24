@@ -1,0 +1,61 @@
+body{
+  margin: auto;
+  width: 960px;
+  background-image: url(https://media.gettyimages.com/vectors/hearts-vector-id1222960206?s=612x612);
+}
+#cabecalho , footer{
+  background-color: #f59e9e;
+  padding: 10px 20px 10px 20px;
+  border-radius: 0px 0px 20px 20px;
+  color: rgb(247, 243, 18);
+  background-image: url(https://cdn.leroymerlin.com.br/products/papel_de_parede_infantil_coracoes_com_asas_1556285129_ff24_600x600.jpg);
+  text-align: center;
+  text-shadow:3px 3px 6px rgb(19, 18, 18), -6px -6px 6px rgb(12, 12, 12);
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#parques{
+  background-color: #dd2828;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+footer{
+  border-radius: 20px;
+  margin-top: 20px;
+}
+#parques img{
+  float: left;
+  height: 250px;
+  width: 250px;
+  margin-top: 0px 0px 0px 0px;
+}
+.vazio{
+  clear:both;
+}
+#parques article{
+  border-bottom: 1px dashed #A0FFFF;
+padding-bottom: 10px;
+}
+#parques h1, #parques h2{
+  color:#FFF;
+  text-align: center;
+  justify-content: right;
+  font-weight: bold;
+  }
+  #parques p{
+  text-align: center;
+  color:#f7e710;
+  font-weight: bold;
+  }
+  #parques h1, #parques h2{
+    color:rgb(5, 161, 154);
+    text-align: center;
+    }
+    #parques p{
+    text-align: center;
+    color:#A0FFFF;
+    }
+    .negrito{
+      font-weight: bold;
+    }
